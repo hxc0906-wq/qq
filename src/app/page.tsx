@@ -710,7 +710,7 @@ export default function HomePage() {
           <div className="mb-8 text-center">
             <div className="flex items-center justify-between mb-2">
               <div className="w-24" />
-              <h1 className="text-4xl font-bold text-gray-900">哄哄模拟器</h1>
+              <h1 className="text-4xl font-bold text-purple-600">哄哄模拟器</h1>
               <div className="w-24 flex justify-end">
                 <UserNav />
               </div>
